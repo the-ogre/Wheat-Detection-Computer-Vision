@@ -1,10 +1,5 @@
 # GLOBAL WHEAT DETECTION
 
-## CONTRIBUTORS
-  - Akanksha .
-  - Aakanksha Nallabothula Surya
-
-
 ## TECHNOLOGIES USED:
   - PyTorch
   - Deep Learning - Faster-RCNN
@@ -12,14 +7,12 @@
 ## GOAL
 To predict bounding boxes around each wheat head in images that have them.
 
-Kaggle competition link: https://www.kaggle.com/c/global-wheat-detection
+Kaggle source link: https://www.kaggle.com/c/global-wheat-detection
   
 ## DATA
 Training data consists of 3422 image files, totaling around 613 Mb.
 Train.csv has columns such as image_id, width and height of the image, and bounding box dimension [xmin, ymin, width, height]
 
-
-![image info](./images/bb.png)
 
 ## FINAL REPORT
 https://github.com/aakanksha-ns/wheat-detection/blob/master/Deep_Learning_Project_Report.pdf
